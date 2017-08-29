@@ -8,6 +8,7 @@ public class TestGit {
 	public static void main(String[] args) throws Exception {
 		Scanner s=null;
 		String date=null;
+		
 		java.util.Date ud1=null;
 		SimpleDateFormat sdf1=null;
 		long ms=0;//TIME IN MILLISECONDS
