@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class TestGit {
 
 	public static void main(String[] args) throws Exception {
-		System.out.println(" SAY HELLO TO GIT");
 		Scanner s=null;
 		String date=null;
 		java.util.Date ud1=null;
